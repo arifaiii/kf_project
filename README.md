@@ -16,4 +16,4 @@ Query ini terdiri dari beberapa Common Table Expression (CTE):
 - CTE_Cabang: Menambahkan informasi cabang (lokasi dan rating).
 - CTE_Produk: Menambahkan informasi produk.
 
-Hasil akhir query disimpan dalam tabel kf_analysis_table yang akan dihubungkan untuk membuat dashboard pada Google Looker Studio.
+Hasil akhir query disimpan dalam tabel kf_analysis_table yang akan dihubungkan untuk membuat dashboard pada Google Looker Studio. Dashboard dapat diakses [di sini](https://lookerstudio.google.com/reporting/9d167a6d-4e7d-49fe-b368-96aaebd0fb90)
